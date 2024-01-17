@@ -1,3 +1,4 @@
+# Microsoft Edge shortcuts
 Press this key | To do this
 -|-
 Ctrl + Shift + B | Show or hide the favorites bar
